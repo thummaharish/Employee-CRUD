@@ -1,0 +1,20 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "name": "json-server",
+      "email": "typicode"
+      
+    }
+  ],
+  "employees": [
+    {
+      "id": 1,
+      "name": "Harish",
+      "location": "Hyderabad" 
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
